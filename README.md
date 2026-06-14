@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.14.5-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-Analysis-green?style=for-the-badge&logo=pandas)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=for-the-badge&logo=jupyter)
